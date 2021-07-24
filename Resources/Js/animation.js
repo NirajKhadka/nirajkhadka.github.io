@@ -57,7 +57,6 @@ $(document).ready(function () {
     }
   );
 
- 
   //   $("#home").waypoint(
   //     function (direction) {
   //       $(".nav-link").removeClass("active");
